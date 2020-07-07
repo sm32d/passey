@@ -4,8 +4,6 @@ Create a mixture of random alphabets, numbers and special characters of desired 
 
 Version 1.0
 
-This project is licensed under the GNU Affero General Public License v3.0
-
 **GUI coming soon! Keep a look at the repo or sign up for my mailing list at https://www.prodominik.me**
 
 ## Prerequisites
@@ -20,3 +18,6 @@ This project is licensed under the GNU Affero General Public License v3.0
 `java -jar Passey.jar`
 
 There you go. Passey is up for your service :)
+
+## License
+This project is licensed under the GNU Affero General Public License v3.0. A copy of the same is available [here](https://bitbucket.org/sm32d/passey/src/master/LICENSE.md).
