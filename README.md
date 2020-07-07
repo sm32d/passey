@@ -4,6 +4,8 @@ Create a mixture of random alphabets, numbers and special characters of desired 
 
 Version 1.0
 
+This project is licensed under the GNU Affero General Public License v3.0
+
 **GUI coming soon! Keep a look at the repo or sign up for my mailing list at https://www.prodominik.me**
 
 ## Prerequisites
