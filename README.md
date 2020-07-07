@@ -20,4 +20,4 @@ Version 1.0
 There you go. Passey is up for your service :)
 
 ## License
-This project is licensed under the GNU Affero General Public License v3.0. A copy of the same is available [here](https://bitbucket.org/sm32d/passey/src/master/LICENSE.md).
+This project is licensed under the GNU Affero General Public License v3.0. A copy of the same is available [here](https://github.com/sm32d/passey/blob/master/LICENSE.md).
