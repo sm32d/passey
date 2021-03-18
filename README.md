@@ -18,7 +18,7 @@ Version 1.0.1
 ## Prerequisites for GUI JS version
 
 - A browser
-- Head over to [this link]((https://www.prodominik.me/passey/)) to experience now!
+- Head over to [this link](https://www.prodominik.me/passey/) to experience now!
 
 ## How to Run?
 1. Download or clone the repository.
