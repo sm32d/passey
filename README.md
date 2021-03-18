@@ -2,14 +2,23 @@
 
 Create a mixture of random alphabets, numbers and special characters of desired length.
 
-Version 1.0
+Version 1.0.1
 
-**GUI coming soon! Keep a look at the repo or sign up for my mailing list at https://www.prodominik.me**
+## What's New
 
-## Prerequisites
+- Users can now change the length of the generated password without having to relaunch the app.
+- GUI is [here](https://www.prodominik.me/passey/)!
+- Users can specify if they want numbers and special characters in the GUI (JS) version.
+
+## Prerequisites for Native Java version
 
 - A machine that can run Java programs
 - Minimum Java 8 [(available here)](https://aws.amazon.com/corretto/).
+
+## Prerequisites for GUI JS version
+
+- A browser
+- Head over to [this link]((https://www.prodominik.me/passey/)) to experience now!
 
 ## How to Run?
 1. Download or clone the repository.
