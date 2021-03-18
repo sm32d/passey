@@ -1,21 +1,20 @@
-import java.util.Random;
-
 class Passey {
     //33 to 125
     private String pass;
     private int len;
     private char[] ch;
-    Random rand;
 
     public Passey (int len) {
         this.len = len;
-        rand = new Random();
         ch = new char [len];
     }
 
     private char getRandomChar () {
-        char temp = (char) (rand.nextInt(90) + 33); //nextInt((max - min) + 1) + min;
-        return temp;
+        String chars = "ABCDEFGHIJKLMNOP4567QRST^UVWXYZ28abcdefghi@#jklmnop$qrstuvwxyz!%&*3019";
+        char ch;
+        int index = (int)Math.floor(Math.random() * chars.length());
+        ch = chars.charAt(index);
+        return ch;
     }
 
     private void buildPass () {
